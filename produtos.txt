@@ -4,3 +4,5 @@
 104;Webcam;159.90
 105;Headset;129.90
 106;Impressora;599.90
+107;Jorge;555.90
+108;JorgeSon;444.90

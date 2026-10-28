@@ -3,3 +3,4 @@
 003;Mariana Alves
 004;Pedro Santos
 005;Juliana Costa
+006;Cleber Madeira
