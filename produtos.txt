@@ -3,3 +3,4 @@
 103;Monitor;799.90
 104;Webcam;159.90
 105;Headset;129.90
+106;Impressora;599.90
